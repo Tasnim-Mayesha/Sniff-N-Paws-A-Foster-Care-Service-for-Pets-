@@ -1,0 +1,352 @@
+[
+  {
+    "id": 1,
+    "name": "Lion",
+    "species": "Panthera leo",
+    "habitat": "Grasslands",
+    "diet": "Carnivore"
+  },
+  {
+    "id": 2,
+    "name": "Elephant",
+    "species": "Loxodonta",
+    "habitat": "Forests and savannas",
+    "diet": "Herbivore"
+  },
+  {
+    "id": 3,
+    "name": "Giraffe",
+    "species": "Giraffa",
+    "habitat": "Savannas",
+    "diet": "Herbivore"
+  },
+  {
+    "id": 4,
+    "name": "Polar Bear",
+    "species": "Ursus maritimus",
+    "habitat": "Arctic",
+    "diet": "Carnivore"
+  },
+  {
+    "id": 5,
+    "name": "Tiger",
+    "species": "Panthera tigris",
+    "habitat": "Forests",
+    "diet": "Carnivore"
+  },
+  {
+    "id": 6,
+    "name": "Kangaroo",
+    "species": "Macropus",
+    "habitat": "Grasslands",
+    "diet": "Herbivore"
+  },
+  {
+    "id": 7,
+    "name": "Hippopotamus",
+    "species": "Hippopotamus amphibius",
+    "habitat": "Rivers and lakes",
+    "diet": "Herbivore"
+  },
+  {
+    "id": 8,
+    "name": "Penguin",
+    "species": "Spheniscidae",
+    "habitat": "Antarctic",
+    "diet": "Carnivore"
+  },
+  {
+    "id": 9,
+    "name": "Cheetah",
+    "species": "Acinonyx jubatus",
+    "habitat": "Grasslands",
+    "diet": "Carnivore"
+  },
+  {
+    "id": 10,
+    "name": "Gorilla",
+    "species": "Gorilla",
+    "habitat": "Forests",
+    "diet": "Herbivore"
+  },
+  {
+    "id": 11,
+    "name": "Koala",
+    "species": "Phascolarctos cinereus",
+    "habitat": "Eucalyptus forests",
+    "diet": "Herbivore"
+  },
+  {
+    "id": 12,
+    "name": "Horse",
+    "species": "Equus ferus",
+    "habitat": "Grasslands",
+    "diet": "Herbivore"
+  },
+  {
+    "id": 13,
+    "name": "Dolphin",
+    "species": "Delphinidae",
+    "habitat": "Oceans",
+    "diet": "Carnivore"
+  },
+  {
+    "id": 14,
+    "name": "Giraffe",
+    "species": "Giraffa",
+    "habitat": "Savannas",
+    "diet": "Herbivore"
+  },
+  {
+    "id": 15,
+    "name": "Leopard",
+    "species": "Panthera pardus",
+    "habitat": "Various",
+    "diet": "Carnivore"
+  },
+  {
+    "id": 16,
+    "name": "Kangaroo",
+    "species": "Macropus",
+    "habitat": "Grasslands",
+    "diet": "Herbivore"
+  },
+  {
+    "id": 17,
+    "name": "Gorilla",
+    "species": "Gorilla",
+    "habitat": "Forests",
+    "diet": "Herbivore"
+  },
+  {
+    "id": 18,
+    "name": "Crocodile",
+    "species": "Crocodylidae",
+    "habitat": "Freshwater and saltwater",
+    "diet": "Carnivore"
+  },
+  {
+    "id": 19,
+    "name": "Lion",
+    "species": "Panthera leo",
+    "habitat": "Grasslands",
+    "diet": "Carnivore"
+  },
+  {
+    "id": 20,
+    "name": "Tiger",
+    "species": "Panthera tigris",
+    "habitat": "Forests",
+    "diet": "Carnivore"
+  },
+  {
+    "id": 21,
+    "name": "Elephant",
+    "species": "Loxodonta",
+    "habitat": "Forests and savannas",
+    "diet": "Herbivore"
+  },
+  {
+    "id": 22,
+    "name": "Penguin",
+    "species": "Spheniscidae",
+    "habitat": "Antarctic",
+    "diet": "Carnivore"
+  },
+  {
+    "id": 23,
+    "name": "Hippopotamus",
+    "species": "Hippopotamus amphibius",
+    "habitat": "Rivers and lakes",
+    "diet": "Herbivore"
+  },
+  {
+    "id": 24,
+    "name": "Cheetah",
+    "species": "Acinonyx jubatus",
+    "habitat": "Grasslands",
+    "diet": "Carnivore"
+  },
+  {
+    "id": 25,
+    "name": "Koala",
+    "species": "Phascolarctos cinereus",
+    "habitat": "Eucalyptus forests",
+    "diet": "Herbivore"
+  },
+  {
+    "id": 26,
+    "name": "Horse",
+    "species": "Equus ferus",
+    "habitat": "Grasslands",
+    "diet": "Herbivore"
+  },
+  {
+    "id": 27,
+    "name": "Dolphin",
+    "species": "Delphinidae",
+    "habitat": "Oceans",
+    "diet": "Carnivore"
+  },
+  {
+    "id": 28,
+    "name": "Lion",
+    "species": "Panthera leo",
+    "habitat": "Grasslands",
+    "diet": "Carnivore"
+  },
+  {
+    "id": 29,
+    "name": "Elephant",
+    "species": "Loxodonta",
+    "habitat": "Forests and savannas",
+    "diet": "Herbivore"
+  },
+  {
+    "id": 30,
+    "name": "Giraffe",
+    "species": "Giraffa",
+    "habitat": "Savannas",
+    "diet": "Herbivore"
+  },
+  {
+    "id": 31,
+    "name": "Polar Bear",
+    "species": "Ursus maritimus",
+    "habitat": "Arctic",
+    "diet": "Carnivore"
+  },
+  {
+    "id": 32,
+    "name": "Tiger",
+    "species": "Panthera tigris",
+    "habitat": "Forests",
+    "diet": "Carnivore"
+  },
+  {
+    "id": 33,
+    "name": "Kangaroo",
+    "species": "Macropus",
+    "habitat": "Grasslands",
+    "diet": "Herbivore"
+  },
+  {
+    "id": 34,
+    "name": "Hippopotamus",
+    "species": "Hippopotamus amphibius",
+    "habitat": "Rivers and lakes",
+    "diet": "Herbivore"
+  },
+  {
+    "id": 35,
+    "name": "Penguin",
+    "species": "Spheniscidae",
+    "habitat": "Antarctic",
+    "diet": "Carnivore"
+  },
+  {
+    "id": 36,
+    "name": "Cheetah",
+    "species": "Acinonyx jubatus",
+    "habitat": "Grasslands",
+    "diet": "Carnivore"
+  },
+  {
+    "id": 37,
+    "name": "Gorilla",
+    "species": "Gorilla",
+    "habitat": "Forests",
+    "diet": "Herbivore"
+  },
+  {
+    "id": 38,
+    "name": "Koala",
+    "species": "Phascolarctos cinereus",
+    "habitat": "Eucalyptus forests",
+    "diet": "Herbivore"
+  },
+  {
+    "id": 39,
+    "name": "Horse",
+    "species": "Equus ferus",
+    "habitat": "Grasslands",
+    "diet": "Herbivore"
+  },
+  {
+    "id": 40,
+    "name": "Dolphin",
+    "species": "Delphinidae",
+    "habitat": "Oceans",
+    "diet": "Carnivore"
+  },
+  {
+    "id": 41,
+    "name": "Lion",
+    "species": "Panthera leo",
+    "habitat": "Grasslands",
+    "diet": "Carnivore"
+  },
+  {
+    "id": 42,
+    "name": "Elephant",
+    "species": "Loxodonta",
+    "habitat": "Forests and savannas",
+    "diet": "Herbivore"
+  },
+  {
+    "id": 43,
+    "name": "Giraffe",
+    "species": "Giraffa",
+    "habitat": "Savannas",
+    "diet": "Herbivore"
+  },
+  {
+    "id": 44,
+    "name": "Polar Bear",
+    "species": "Ursus maritimus",
+    "habitat": "Arctic",
+    "diet": "Carnivore"
+  },
+  {
+    "id": 45,
+    "name": "Tiger",
+    "species": "Panthera tigris",
+    "habitat": "Forests",
+    "diet": "Carnivore"
+  },
+  {
+    "id": 46,
+    "name": "Kangaroo",
+    "species": "Macropus",
+    "habitat": "Grasslands",
+    "diet": "Herbivore"
+  },
+  {
+    "id": 47,
+    "name": "Hippopotamus",
+    "species": "Hippopotamus amphibius",
+    "habitat": "Rivers and lakes",
+    "diet": "Herbivore"
+  },
+  {
+    "id": 48,
+    "name": "Penguin",
+    "species": "Spheniscidae",
+    "habitat": "Antarctic",
+    "diet": "Carnivore"
+  },
+  {
+    "id": 49,
+    "name": "Cheetah",
+    "species": "Acinonyx jubatus",
+    "habitat": "Grasslands",
+    "diet": "Carnivore"
+  },
+  {
+    "id": 50,
+    "name": "Gorilla",
+    "species": "Gorilla",
+    "habitat": "Forests",
+    "diet": "Herbivore"
+  }
+]
